@@ -1,2 +1,0 @@
-# Media-aritmetica
-Aula (segunda)
